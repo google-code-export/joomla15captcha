@@ -1,11 +1,10 @@
-#summary One-sentence summary of this page.
+#summary Плагин капча и патч для Joomla! 1.5.
 
-= Introduction =
+= Плагин капча и патч для Joomla! 1.5 =
 
-Add your content here.
+1. Плагин устанавливается в группу плагинов system
 
-
-= Details =
+= Подробности =
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
