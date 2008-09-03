@@ -4,9 +4,8 @@
 
 1. Плагин устанавливается в группу плагинов system
 
-= Подробности =
+= Использование =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+1. Установить модуль
+2. Сохранить настройки модуля
+3. Установить патчи
