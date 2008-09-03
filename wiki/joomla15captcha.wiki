@@ -1,13 +1,10 @@
-#summary One-sentence summary of this page.
+#summary Captcha plugin and patch for Joomla! 1.5.
 
-= Introduction =
+= Captcha plugin and patch for Joomla! 1.5 =
 
-*Captcha plugin and patch for Joomla! 1.5*
-
+Avaible laguages:
+- english
+- russian
+- ukrainian
 
 = Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
