@@ -1,3 +1,4 @@
+{{{
 		// PATCH CAPTCHA
 		if ( JPluginHelper::isEnabled( 'system', 'captcha' ) ) {
 			$captchacode = strtolower( JRequest::getVar( 'captchacode', '', 'post' ) );
@@ -8,3 +9,4 @@
 				return false;
 			}
 		}
+}}}
