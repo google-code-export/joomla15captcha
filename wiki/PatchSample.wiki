@@ -1,0 +1,10 @@
+		// PATCH CAPTCHA
+		if ( JPluginHelper::isEnabled( 'system', 'captcha' ) ) {
+			$captchacode = strtolower( JRequest::getVar( 'captchacode', '', 'post' ) );
+			$results = JDispatcher::getInstance()->trigger( 'onCaptchaVerify', array( $captchacode ) );
+			if ( ! $results[0] ) { 			
+				JError::raiseWarning( 'CAPTHCA', JText::_( 'SECURECODE_DO_NOT_MATCH' ).JText::_($captchacode) ); // 
+				$this->register();
+				return false;
+			}
+		}
