@@ -1,11 +1,11 @@
 Joomla! 1.5.6
 components/com_user/controller.php
 
-next fragment for
-function login()
-function register_save()
-function requestreset()
-function completereset() 
+next fragment for:
+* function login()
+* function register_save()
+* function requestreset()
+* function completereset() 
 
 {{{
 		// PATCH CAPTCHA
