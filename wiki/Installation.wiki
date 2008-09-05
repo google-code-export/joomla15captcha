@@ -2,8 +2,8 @@
 
 = Installation =
 
- # Unpak patches for Joomla in root catalog (Patch-CaptchaPlugin_1.0.0-for-Joomla_1.5.6-Stable-Full_Package.zip)
- # Unpak patches for Temlpate in folder "html" for used templates (Patch-CaptchaPlugin_1.0.0-for-TEMPLATE.zip)
- # Install plugin (CaptchaPlugin_1.0.0-for-Joomla_1.5.6-Stable.zip)
+ # Unpak patches for Joomla in root catalog (Patch CaptchaPlugin 1.0.0 for Joomla 1.5.6 Stable Full Package.zip)
+ # Unpak patches for Temlpate in folder "html" for used templates (Patch CaptchaPlugin 1.0.0 for TEMPLATE.zip)
+ # Install plugin (CaptchaPlugin 1.0.0 for Joomla 1.5.6 Stable.zip)
  # Save plugin parameters
  # Enjoy
