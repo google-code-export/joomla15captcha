@@ -1,3 +1,4 @@
+*libraries/joomla/event/dispatcher.php*
 
 {{{
 if (function_exists($observer['handler']))
