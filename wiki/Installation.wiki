@@ -2,8 +2,12 @@
 
 = Installation =
 
- 1 Unpak patches for Joomla in root catalog
- 2 Unpak patches for Temlpate in folder "html" for used templates
- 3 Install plugin
- 4 Save plugin parameters
- 5 Enjoy
+1 Unpak patches for Joomla in root catalog
+
+2 Unpak patches for Temlpate in folder "html" for used templates
+
+3 Install plugin
+
+4 Save plugin parameters
+
+5 Enjoy
