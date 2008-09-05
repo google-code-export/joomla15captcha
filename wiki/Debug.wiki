@@ -1,0 +1,8 @@
+
+{{{
+if (function_exists($observer['handler']))
+{
+	//JError::raiseWarning('SOME_ERROR_CODE', 'Method called: '.$observer['handler']);
+	$result[] = call_user_func_array($observer['handler'], $args);
+}
+}}}
