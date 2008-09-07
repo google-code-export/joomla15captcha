@@ -3,8 +3,9 @@
 = Captcha plugin and patch for Joomla! 1.5 =
 
 Avaible laguages:
-- english
-- russian
-- ukrainian
+ # byelorussian
+ # english
+ # russian
+ # ukrainian
 
 = Details =
