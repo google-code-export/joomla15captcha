@@ -1,7 +1,3 @@
-*THIS PAGE ISNT READY*
-
-
-
 *For file "modules/mod_yoo_login/tmpl/default.php"*
 from line 80 of original file
 
@@ -16,16 +12,20 @@ from line 80 of original file
 </span>
 <?php } ?>
 <?php endif; ?>
+<!--
 //
 // *** Jomla Captcha Patch start ***
 // Delete this code if Joomla Captcha not instaled!
 //
+-->
 <span class="login-captcha-container">
 	<?php if ( JPluginHelper::isEnabled( 'system', 'captcha' ) ) { JDispatcher::getInstance()->trigger( 'getCaptchaView', array( '', 2 ) ); } // Captcha_patch ?>
 </span>
+<!--
 //
 // *** Jomla Captcha Patch end ***
 //
+-->
 <span class="login-button-container">
 	<span class="login-button<?php echo "-" . $login_button ?>">
 		<button value="<?php if ( $login_button == "text" ) { echo JText::_( 'BUTTON_LOGIN'); } ?>" name="Submit" type="submit" title="<?php echo JText::_('BUTTON_LOGIN'); ?>"><?php if ( $login_button == "text" ) { echo JText::_( 'BUTTON_LOGIN'); } ?></button>
@@ -48,16 +48,20 @@ from line 80 of original file
 </span>
 <?php } ?>
 <?php endif; ?>
+<!--
 //
 // *** Jomla Captcha Patch start ***
 // Delete this code if Joomla Captcha not instaled!
 //
+-->
 <span class="login-captcha-container">
 	<?php if ( JPluginHelper::isEnabled( 'system', 'captcha' ) ) { JDispatcher::getInstance()->trigger( 'getCaptchaView', array( '', 2 ) ); } // Captcha_patch ?>
 </span>
+<!--
 //
 // *** Jomla Captcha Patch end ***
 //
+-->
 <span class="login-button-container">
 	<span class="login-button<?php echo "-" . $login_button ?>">
 		<button value="<?php echo JText::_( 'BUTTON_LOGIN'); ?>" name="Submit" type="submit" title="<?php echo JText::_('BUTTON_LOGIN'); ?>"><?php echo JText::_( 'BUTTON_LOGIN'); ?></button>
@@ -73,16 +77,20 @@ from line 68 of original file
 <?php if(JPluginHelper::isEnabled('system', 'remember')) : ?>
 <input type="hidden" name="remember" value="yes" />
 <?php endif; ?>
+<!--
 //
 // *** Jomla Captcha Patch start ***
 // Delete this code if Joomla Captcha not instaled!
 //
+-->
 <span class="login-captcha-container">
 	<?php if ( JPluginHelper::isEnabled( 'system', 'captcha' ) ) { JDispatcher::getInstance()->trigger( 'getCaptchaView', array( '', 2 ) ); } // Captcha_patch ?>
 </span>
+<!--
 //
 // *** Jomla Captcha Patch end ***
 //
+-->
 <span class="login-button">
 	<button value="<?php echo JText::_( 'BUTTON_LOGIN'); ?>" name="Submit" type="submit" title="<?php echo JText::_('BUTTON_LOGIN'); ?>"><?php echo JText::_( 'BUTTON_LOGIN'); ?></button>
 </span>
@@ -96,16 +104,20 @@ from line 68 of original file
 <?php if(JPluginHelper::isEnabled('system', 'remember')) : ?>
 <input type="hidden" name="remember" value="yes" />
 <?php endif; ?>
+<!--
 //
 // *** Jomla Captcha Patch start ***
 // Delete this code if Joomla Captcha not instaled!
 //
+-->
 <span class="login-captcha-container">
 	<?php if ( JPluginHelper::isEnabled( 'system', 'captcha' ) ) { JDispatcher::getInstance()->trigger( 'getCaptchaView', array( '', 2 ) ); } // Captcha_patch ?>
 </span>
+<!--
 //
 // *** Jomla Captcha Patch end ***
 //
+-->
 <span class="login-button<?php echo "-" . $login_button ?>">
 	<button value="<?php if ( $login_button == "text" ) { echo JText::_( 'BUTTON_LOGIN'); } ?>" name="Submit" type="submit" title="<?php echo JText::_('BUTTON_LOGIN'); ?>"><?php if ( $login_button == "text" ) { echo JText::_( 'BUTTON_LOGIN'); } ?></button>
 </span>
