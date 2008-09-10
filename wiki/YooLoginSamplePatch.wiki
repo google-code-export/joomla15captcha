@@ -1,4 +1,6 @@
-Download and install
+#summary YooLogin module installer with JoomlaCaptcha_1.0.0 Patch embeded
+
+Download and install -
 
 PATCH mod_yoo_login_1.5.7 with JoomlaCaptcha_1.0.0 Patch
 
