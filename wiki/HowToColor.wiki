@@ -1,6 +1,11 @@
-#summary HOW TO change color of captcha image?
+#summary HOW TO change colors of captcha image?
 
-= HOW TO change color of captcha image? =
+= HOW TO change colors of captcha image? =
 
-coming soon
-Jomla Captcha 2.0.0
+Jomla Captcha 2.0.0 and later
+
+
+In administrator panel of Joomla! go:
+
+ 
+Extentions -> Plugin Manager -> System - Captcha -> Parameters -> Plugin Parameters -> 
