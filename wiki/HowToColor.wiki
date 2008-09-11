@@ -2,4 +2,5 @@
 
 = HOW TO change color of captcha image? =
 
+coming soon
 Jomla Captcha 2.0.0
