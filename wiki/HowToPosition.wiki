@@ -1,0 +1,46 @@
+#summary HOW TO change position and style?
+
+= HOW TO change position and style? =
+
+USE "template.css" in folder "css" of your current Joomla! template!!!
+
+See this fragment of capthca plugin for details
+
+for components
+
+{{{
+<div id='CaptchaForm'>
+<fieldset>
+<legend><?php JText::_( 'CAPTCHACODE_FORM_TITLE' ) ?></legend>		
+	<div id="captchasound"><a href='<?php echo $url_sound ?>' title='<?php echo JText::_( 'CAPTCHACODE_SOUND' ); ?>' ><?php echo JText::_( 'CAPTCHACODE_SOUND' ); ?></a></div>
+	<div id="captchaimage"><img src='<?php echo $url_image ?>' title='<?php echo JText::_( 'CAPTCHACODE_FORM_TEXT' ) ?>' alt='<?php echo JText::_( 'CAPTCHACODE_FORM_TEXT' ) ?>'></div>
+<div id='captchacode_outer'><label for='captchacode'><?php echo JText::_( 'CAPTCHACODE_FORM_TEXT' ) ?></label>&nbsp;
+<input class='inputbox required' type='text' name='captchacode' id='captchacode' size='5' value='' />&nbsp;*</div>
+</fieldset>
+</div>
+	<div id="captchahelplink" style="font-size: xx-small"><?php echo JText::_( 'CAPTCHACODE_HELP' ) ?>
+		<a target="_blank" href="<?php echo $captchahelpURL ?>"><?php echo JText::_( 'CAPTCHACODE_HELP_LINKNAME' ) ?></a>
+		<a target="_blank" href="http://code.google.com/p/joomla15captcha/"><?php echo JText::_( 'PROJECT_PAGE' ) ?></a>&nbsp;::&nbsp;
+		<a target="_blank" href="http://kupala.biz/">Kupala.Biz</a>
+	</div>
+<div style='clear: both;'>
+}}}
+
+
+for modules
+
+{{{
+<label for='captchacode'><?php echo JText::_( 'CAPTCHACODE_FORM_TEXT' ) ?></label>
+	<div id="captchasound">
+	<a href='<?php echo $url_sound ?>' title='<?php echo JText::_( 'CAPTCHACODE_SOUND' ) ?>' ><?php echo JText::_( 'CAPTCHACODE_SOUND' ) ?></a>	
+	</div>
+	<div id="captchaimage">
+	<img src='<?php echo $url_image ?>' title='<?php echo JText::_( 'CAPTCHACODE_FORM_TITLE' ) ?>' alt='<?php echo JText::_( 'CAPTCHACODE_FORM_TITLE' ) ?>'>
+	</div>
+<input class='inputbox required' type='text' name='captchacode' id='captchacode' size='5' value='' />
+	<div id="captchahelplink" style="font-size: xx-small"><?php echo JText::_( 'CAPTCHACODE_HELP' ) ?>
+		<a target="_blank" href="<?php echo $captchahelpURL ?>"><?php echo JText::_( 'CAPTCHACODE_HELP_LINKNAME' ) ?></a>
+		<a target="_blank" href="http://code.google.com/p/joomla15captcha/"><?php echo JText::_( 'PROJECT_PAGE' ) ?></a>&nbsp;::&nbsp;
+		<a target="_blank" href="http://kupala.biz/">Kupala.Biz</a>
+	</div>
+}}}
