@@ -5,7 +5,7 @@
 Change files:
 
 
-captha.php
+captha.php, captcha.xml
 
 
 or
