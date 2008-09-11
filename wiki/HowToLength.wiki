@@ -1,4 +1,4 @@
-#summary HOW TO change length
+#summary HOW TO change length of the captcha?
 
 = HOW TO change length of the captcha? =
 
