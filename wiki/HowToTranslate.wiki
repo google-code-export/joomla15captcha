@@ -4,15 +4,15 @@
 
 You must copy language file in Joomla path:
  
-administrator/language/en-GB/en-GB.plg_system_captcha.ini
+*administrator/language/en-GB/en-GB.plg_system_captcha.ini*
 
 to 
 
-administrator/language/xx-XX/xx-XX.plg_system_captcha.ini
+*administrator/language/xx-XX/xx-XX.plg_system_captcha.ini*
 
-where xx-XX is your language
+where *xx-XX* is your language
 
-and translate any text after "="
+and translate any text after *"="*
 
 {{{
 #  $Id: en-GB.plg_system_captcha.ini
