@@ -1,5 +1,5 @@
-#summary HOW TO change color of capthca image?
+#summary HOW TO change color of captcha image?
 
-= HOW TO change color of capthca image? =
+= HOW TO change color of captcha image? =
 
 Jomla Captcha 2.0.0
