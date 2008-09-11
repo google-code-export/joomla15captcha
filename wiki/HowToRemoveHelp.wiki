@@ -2,10 +2,25 @@
 
 = HOW TO remove help links of captcha? = 
 
-In administrator panel of Joomla! go:
+Default captcha help stirng is:
+"About captcha Project ::  Kupala.Biz" 
+
+
+*In administrator panel of Joomla! go:*
+
  
 Extentions -> Plugin Manager -> System - Captcha -> Parameters -> Plugin Parameters -> 
 
-Set parameter "I have made the donation and I can adjust help link now" to On
+*Set parameter "I have made the donation and I can adjust help link now" to On*
 
-Set parameter "Use help link" to Off
+And captcha help stirng is:
+"About captcha Project" 
+
+*Set parameter "Use help link" to Off*
+
+And captcha help stirng is nothing
+
+*Or set parameter "Use help link" to On and set parameter "Set parameter "Use help link" to Off" as needed*
+
+And captcha help stirng is:
+"About captcha Project" (where Project is your link) 
