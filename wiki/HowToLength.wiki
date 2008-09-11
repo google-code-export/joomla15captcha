@@ -6,6 +6,16 @@ In administrator panel of Joomla! go:
 
 Extentions -> Plugin Manager -> System - Captcha -> Parameters -> Plugin Parameters -> Code length
 
-May be set to 3, 4 or 5
+May be set to "3", "4" or "5"
 
-In login module it always equal 2 now
+In login module it always equal "2" now. For change set module patch
+
+{{{
+JDispatcher::getInstance()->trigger( 'getCaptchaView', array( '' ) );
+}}}
+
+instead
+
+{{{
+JDispatcher::getInstance()->trigger( 'getCaptchaView', array( '', 2 ) );
+}}}
