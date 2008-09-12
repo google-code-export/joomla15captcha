@@ -1,4 +1,5 @@
 #summary HOW TO change colors of captcha image?
+#labels Phase-Deploy,Featured
 
 = HOW TO change colors of captcha image? =
 
