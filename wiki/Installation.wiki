@@ -1,4 +1,5 @@
 #summary Installation.
+#labels Phase-Deploy,Featured
 
 = Installation =
 
