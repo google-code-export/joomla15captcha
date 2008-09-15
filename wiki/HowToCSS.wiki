@@ -16,7 +16,9 @@ for hide help string with css:
 
 for set picture size 80x30px with css ([http://www.harita-cat.com/ see sample]):
 
+{{{
 #captchaimage img {
 	width: 80px;
 	height: 30px;
 }
+}}}
