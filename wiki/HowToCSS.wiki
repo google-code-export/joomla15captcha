@@ -1,0 +1,22 @@
+#summary HOW TO control size and style of capthca with CSS.
+#labels Phase-Deploy,Featured
+
+= HOW TO control size and style of capthca with CSS? =
+
+Just insert next fragment into your template css file (templates/ja_purity/css/template.css or other).
+
+for hide help string with css:
+
+{{{
+/* Joomla Captcha */
+#captchahelplink {
+	visibility: hidden;
+}
+}}}
+
+for set picture size 80x30px with css ([http://www.harita-cat.com/ see sample]):
+
+#captchaimage img {
+	width: 80px;
+	height: 30px;
+}
