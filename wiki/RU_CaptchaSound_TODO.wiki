@@ -1,0 +1,8 @@
+#summary Звук в каптче.
+
+= Хроника =
+
+Добавили
+{{{
+plugins/system/captcha/playcode.php
+}}}
