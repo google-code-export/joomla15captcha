@@ -1,13 +1,6 @@
-#summary One-sentence summary of this page.
-
-= Introduction =
-
-Add your content here.
+#summary Send your xx_XX.captchasounds.zip to Project
 
 
-= Details =
+=The xx_XX.captchasounds.zip file is required.=
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+See Download tab for needed lang... 
