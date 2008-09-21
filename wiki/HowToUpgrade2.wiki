@@ -1,4 +1,8 @@
-#summary HOW TO Upgrade from 1.0.0 to 2.0.0
+#summary HOW TO Upgrade from 1.0.0 to 2.0.0, etc.
+
+= HOW TO Upgrade from 2.0.0 to 3.0.0 =
+
+ * Use patch. Unpack in from zip.
 
 = HOW TO Upgrade from 1.0.0 to 2.0.0 =
 
