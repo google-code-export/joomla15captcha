@@ -3,6 +3,13 @@
 
 = HOW TO control size and style of capthca with CSS? =
 
+Note.
+
+Joomla Captcha 3.0 has one html code for all modules and components!
+
+User guide coming soon
+
+
 Just insert next fragment into your template css file (templates/ja_purity/css/template.css or other).
 
 for hide help string with css:
