@@ -1,7 +1,6 @@
 #summary Send your xx_XX.plg_system_captcha.ini to Project
 
-
 =The xx_XX.plg_system_captcha.ini file is required.=
 
 See Download tab for needed lang... 
-  
+See en-GB.plg_system_captcha.ini (The source for translations on Download tab)  
