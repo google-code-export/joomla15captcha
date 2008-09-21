@@ -4,6 +4,14 @@ Download and install -
 
 PATCH mod_yoo_login_1.5.7 with Joomla Captcha 1.0.0 Patch
 
+*Attention! (2008-09-21)*
+
+*use*
+`JDispatcher::getInstance()->trigger( 'getCaptchaView', array( '', 2 ) );`
+*instead*
+`JDispatcher::getInstance()->trigger( 'getCaptchaView', array( '', 2 ) );`
+
+
 *For file "modules/mod_yoo_login/tmpl/default.php"*
 from line 80 of original file
 
