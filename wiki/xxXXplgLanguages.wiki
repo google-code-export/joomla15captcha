@@ -1,6 +1,7 @@
-#summary Send your xx_XX.captchasounds.zip to Project
+#summary Send your xx_XX.plg_system_captcha.ini to Project
 
 
-=The xx_XX.captchasounds.zip file is required.=
+=The xx_XX.plg_system_captcha.ini file is required.=
 
 See Download tab for needed lang... 
+  
