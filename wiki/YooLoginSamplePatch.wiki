@@ -6,6 +6,15 @@ PATCH mod_yoo_login_1.5.7 with Joomla Captcha 1.0.0 Patch
 
 *Attention! (2008-09-21)*
 
+*With Joomla! Captcha 3.0.0 use*
+
+{{{
+JDispatcher::getInstance()->trigger( 'onCaptchaView', array( '' ) );
+}}}
+
+
+*With Joomla! Captcha 2.0.0:*
+
 *use*
 {{{
 JDispatcher::getInstance()->trigger( 'getCaptchaView', array( '' ) );
