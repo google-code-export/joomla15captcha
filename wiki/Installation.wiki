@@ -12,3 +12,15 @@
 4 Save plugin parameters
 
 5 Enjoy
+
+= Upgrade = 
+
+Unpack zip file in your Joomla! site root
+
+Note.
+
+From Joomla Captcha 3.0.0 Core and Template patches all in one file
+
+= Patches = 
+
+All patches unpack in your Joomla! site root
