@@ -1,0 +1,9 @@
+#summary HOW TO change image of capthcha sound link?
+
+= HOW TO change image of capthcha sound link?=
+
+SAMPLE:
+
+Just put your accessibility.gif into
+
+templates/ja_purity/images/accessibility.gif
