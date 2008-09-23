@@ -4,6 +4,6 @@
 
 *Only for experienced users!*
 
- * Text in *bold* or _italic_
- * Headings, paragraphs, and lists
- * Automatic links to other wiki pages
+ * captcha on admin login
+ * captcha font from active template (how to: just put your ttf file in template images folder and name it "accessibility.ttf")
+ * pure native joomla 15
