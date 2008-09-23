@@ -1,6 +1,8 @@
 #summary 1 Installation.
 #labels Phase-Deploy,Featured
 
+*The Captcha not work without Jomla Captcha Patch!!!*
+
 = Installation =
 
 1. Unpak patches for Joomla site:
