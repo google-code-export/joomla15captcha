@@ -3,15 +3,18 @@
 
 = Installation =
 
-1 Unpak patches for Joomla in root catalog
+1. Unpak patches for Joomla in root catalog of Joomla site.
 
-2 Unpak patches for Temlpate in folder "html" for used templates
+2. !!! Unpack Joomla Captcha *3.0.0* Template Patch for Joomla 1.5
+(Patch-JoomlaCaptha300-for-Joomla157.zip) *in root catalog* of Joomla site.
 
-3 Install plugin
+Unpak patches (*only 1 n 2 releases*) for Temlpate *in folder "html" for used templates*  
 
-4 Save plugin parameters
+3. Install plugin.
 
-5 Enjoy
+4. Save plugin parameters.
+
+5. Enjoy.
 
 = Upgrade = 
 
