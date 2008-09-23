@@ -1,0 +1,13 @@
+#summary Try Joomla Captcha 4.0.0 beta.
+
+= Try Joomla Captcha 4.0.0 beta =
+
+*Only for experienced users!*
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
