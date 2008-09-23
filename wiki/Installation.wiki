@@ -10,7 +10,7 @@
 
 1.2. Unpak patches (*only 1 n 2 releases*) for Temlpate *in folder "html" for used templates*  
 
-3. Install plugin.
+3. Install plugin (`Install-JoomlaCaptha300.zip`).
 
 4. Save plugin parameters.
 
