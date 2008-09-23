@@ -4,6 +4,6 @@
 
 *Only for experienced users!*
 
- * captcha on admin login
+ * captcha on admin login (only for 310 upgrade)
  * captcha font from active template (how to: just put your ttf file in template images folder and name it "accessibility.ttf")
  * pure native joomla 15
