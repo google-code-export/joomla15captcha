@@ -1,0 +1,6 @@
+#summary How do I add a plug-in the form of third-party development for Joomla!?
+#labels Phase-Implementation
+
+= How do I add a plug-in the form of third-party development for Joomla!? =
+
+This unfinished article.
