@@ -4,6 +4,7 @@
 
 *Only for experienced users!*
 
- * captcha on admin login (only for 310 upgrade)
- * captcha font from active template (how to: just put your ttf file in template images folder and name it "accessibility.ttf")
+ * captcha in the form of entrance administrator;
+ * able to use any fonts for better security placed in the directory template (how to: just put your ttf file in template images folder and name it "accessibility.ttf")
  * pure native joomla 15
+ * turn off the captcha in the forms selectively from the control panel of captcha plugin
