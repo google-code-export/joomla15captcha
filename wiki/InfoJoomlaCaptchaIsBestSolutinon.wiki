@@ -1,14 +1,110 @@
-#summary One-sentence summary of this page.
+#summary Joomla Captcha Is Best Solutinon.
 #labels Phase-Deploy
 
-= Introduction =
+= Joomla Captcha Is Best Solutinon=
 
-Add your content here.
+ * *uses only two colors (hacking difficult);*
+ * использует только два цвета (взлом усложнен);
+ * verwendet nur zwei Farben (Hacking kompliziert);
+ * n'utilise que deux couleurs (piratage complexe);
+ * utilizza solo due colori (hacking complicato);
+ * maakt alleen gebruik van twee kleuren (hacking ingewikkeld);
+ * utiliza sólo dos colores ( "hacking" complicado);
+ * たった2色（ ）複雑なハッキングを使用します。;
+ * 只使用兩種顏色（黑客複雜） ;
+ * ويستخدم اثنين فقط من الألوان (القرصنة معقدة) ؛
+
+ * *does not have a stable size (hacking difficult);*
+ * картинка не имеет стабильного размера (взлом усложнен);
+ * Image nicht über eine stabile Größe (Hacking kompliziert);
+ * Image ne dispose pas d'une taille stable (piratage complexe);
+ * Immagine non dispone di una stabile dimensione (hacking complicato);
+ * Image beschikt niet over een stabiele omvang (hacking ingewikkeld);
+ * La imagen no tiene un tamaño estable ( "hacking" complicado);
+ * 画像（ ）が複雑なハッキングは安定した大きされていない。;
+ * 圖像沒有一個穩定的規模（黑客複雜） ;
+ * الصورة ليس لها مستقر حجم (القرصنة معقدة) ؛
 
 
-= Details =
+ * *does not contain characters that allow dual perception ( "1", "i", ...);*
+ * не содержит символов, допускающих двоякое толкование ( "1", "i", ...);
+ * keine Zeichen, die nicht eindeutig ( "1", "i", ...);
+ * ne contient pas de caractères qui permettent ambiguë ( "1", "i", ...);
+ * non contenga caratteri che consentono ambigua ( "1", "i", ...);
+ * geen tekens waarmee dubbelzinnig ( "1", "i", ...);
+ * no contiene caracteres que permiten ambigua ( "1", "i", ...);
+ * は、あいまいな許可の文字が含まれていない（ " 1 " 、 " i "を、 ...);
+ * لا يتضمن حرفا التي تسمح غامضة ( "1" ، و "ط" ،...)؛
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+
+ * *does not contain vulnerabilities that, if all installed patches for the components and modules;*
+ * не содержит уязвимостей, если установлены патчи для всех компонентов и модулей;
+ * nicht enthalten Sicherheitslücken, dass, wenn die installierten Patches für alle Komponenten und Module;
+ * ne contient pas de vulnérabilités qui, si les correctifs installés pour tous les composants et modules;
+ * non contiene vulnerabilità che, se installato le patch per tutti i componenti e moduli;
+ * bevat geen beveiligingsproblemen die, indien geïnstalleerd patches voor alle componenten en modules;
+ * no contiene vulnerabilidades que, si está instalado los parches de todos los componentes y módulos;
+ * 脆弱性が含まれていませんが、もしすべてのコンポーネントおよびモジュールのパッチをインストール;
+ * 不包含漏洞，如果安裝補丁程序的所有組件和模塊;
+ * لا يحتوي على نقاط الضعف التي ، إذا ركبت بقع لجميع عناصر وحدات ؛
+
+
+ * *lets you control the size of the image visible on the page and lets you control the style and status for all elements using style sheets (css);*
+ * позволяет устанавливать видимый размер картинки капчи на странице, а также стиль и положение всех элементов капчи при помощи таблицы стилей (css);
+ * können Sie die Größe des Bildes sichtbar auf der Seite, sowie Stil und Status für alle Elemente mit dem Stylesheet (CSS);
+ * vous permet de définir la taille de l'image visible sur la page, ainsi que le style et le statut de tous les éléments à l'aide de la feuille de style (CSS);
+ * consente di impostare la dimensione dell'immagine visibile sulla pagina, così come lo stile e lo status di tutti gli elementi utilizzando il foglio di stile (css);
+ * kunt u de grootte van de afbeelding zichtbaar op de pagina, evenals stijl en de status van alle elementen met behulp van de stylesheet (css);
+ * le permite configurar el tamaño de la imagen visible en la página, así como el estilo y la condición de todos los elementos utilizando la hoja de estilo (CSS);
+ * 場合は、ページ上の画像だけでなく、スタイルの可視スタイルシート（ CSS ）をを使用してすべての要素の状態のサイズを設定することができます。;
+ * 讓您可以設定大小的圖片上看到大主教區人權辦公室的網頁，以及風格和地位的所有內容大主教區人權辦公室使用的樣式（的CSS ） ;
+ * يسمح لك لتحديد حجم الصورة من مكتب حقوق الإنسان للأبرشية مرئية على الصفحة ، فضلا عن أسلوب ومركز لجميع عناصر مكتب حقوق الإنسان للأبرشية باستخدام
+
+
+ * *allows you to control the color of the text and background [HowToColor simply change the settings plugin];*
+ * позволяет управлять цветом текста и фона картинки [RuHowToColor простой настройкой параметров плагина];
+ * erlaubt Ihnen die Festlegung der Farbe für den Text und Hintergrund-Bilder einfache Einstellungen Plugin;
+ * vous permet de contrôler la couleur du texte et des images d'arrière-plan paramètres simple plugin;
+ * ti permette di controllare il colore del testo e immagini di sfondo impostazioni semplice plugin;
+ * kan je de kleur van de tekst en achtergrond beelden eenvoudige instellingen plugin;
+ * le permite controlar el color del texto y de imágenes de fondo simple configuración de plug-in;
+ * 場合は、テキストと背景画像を簡単に設定するプラグインの色を制御することができます;
+ * 可以讓您控制文字的顏色與背景圖片簡單的設置插件;
+ * يسمح لك لمراقبة لون النص والخلفية مجموعة صور من السهل سد
+
+
+ * *is small, is fast;*
+ * компактная и очень быстая;
+ * kompakt und sehr schnell;
+ * compact et très rapide;
+ * compatto e molto veloce;
+ * compact en zeer snel;
+ * compacto y muy rápido;
+ * と非常に高速なコンパクト;
+ * 结构紧凑，速度非常快;
+ * المدمجة وسريعة جدا
+
+
+ * *is simple for to include for other packages (To add to your form you need only two lines of code!);...*
+ * очень легко включается в другие компоненты и модули (Чтобы добавить в вашу форму нужно всего лишь две строчки кода!);...
+ * sehr leicht in andere Komponenten und-Module (So fügen Sie zu Ihrem Formular, das Sie brauchen nur zwei Zeilen Code !);...
+ * très facilement incorporés dans d'autres composants et modules (Pour ajouter à votre formulaire vous avez seulement besoin de deux lignes de code !);... 
+ * molto facilmente incorporati in altri componenti e moduli (da aggiungere al vostro modulo è necessario solo due righe di codice !);...
+ * zeer gemakkelijk opgenomen in andere componenten en modules (toe te voegen aan uw formulier hoeft u slechts twee regels code !);...
+ * muy fácilmente incorporado en otros componentes y los módulos (Para añadir a su forma sólo tiene dos líneas de código !);...
+ * 非常に簡単に他のコンポーネントやモジュールに組み込ま（ !);...コードの2行のみをフォームに追加する必要がある
+ * 很容易融入其他组件和模组（添加到您的形式您只需要两行代码!);...
+ * من السهل جدا إدماج العناصر الأخرى في وحدات
+
+
+ * *speaks in a language that is consistent with the code page of the user;*
+ * разговаривает на языке, который соответствует кодовой странице пользователя;
+ * spricht in einer Sprache, steht im Einklang mit den Code-Seite des Benutzers;
+ * parle dans une langue qui soit compatible avec la page de code de l'utilisateur;
+ * parla in una lingua che è coerente con il codice della pagina l'utente;
+ * spreekt in een taal die in overeenstemming is met de code pagina van de gebruiker;
+ * habla en un idioma que sea compatible con el código de la página el usuario;
+ * は、ユーザーのコードページと一致している言語で話す;
+ * 在谈到语言，是符合代码页的用户;
+ * ويتحدث في اللغة التي تنسجم وقانون صفحة مستخدم
+
