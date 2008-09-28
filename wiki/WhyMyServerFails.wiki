@@ -1,0 +1,9 @@
+#summary Why does my server fails because of the bots?
+ 
+Почему мой сервер терпит крах из-за роботов?
+
+=Why does my server fails because of the bots?= 
+
+The robot automatically fills out the registration form on your site. He does this continuously. And each time the program of your server makes many operations machinations in the database for existing users. Then your server is recorded in the database about the new user. He then sends the necessary notifications via e-mail gateway. All this takes a lot of CPU time. In hundreds of times higher than normal page display for visitors to your site. As a result, you receive a message that your site creates a critical load on the server! You offer preyti more expensive and powerful hosting. 
+  
+But the problem is solved easily. Captcha will help you with this. Captcha trims the robot immediately. And your server is running easily and without strain. Captcha control code verifies that your visitor sees on the picture or hears in via a sound card to speakers or headphones. A visitor enters the code and, if he is correct, your site is starting to fulfill all the necessary steps. Robots can not understand the code. Therefore, their requests for registration are discarded immediately. Processing takes kaptchi moments. Your server serves visitors and not choke processing requests robots.
