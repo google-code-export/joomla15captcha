@@ -22,7 +22,7 @@ Adm.panel - > Extentions -> Plugin Manager -> System - Captcha -> Save btn
 
 5. Enjoy.
 
-== Unpak patches ==
+== 1. Unpak patches ==
 
 http://joomla15captcha.googlecode.com/files/HowToPack01.png
 
@@ -34,7 +34,7 @@ http://joomla15captcha.googlecode.com/files/HowToPack04.png
 
 http://joomla15captcha.googlecode.com/files/HowToPack05.png
 
-== Install the plugin ==
+== 2. Install the plugin ==
 
 http://joomla15captcha.googlecode.com/files/HowToInstall01.png
 
@@ -44,7 +44,7 @@ http://joomla15captcha.googlecode.com/files/HowToInstall03.png
 
 http://joomla15captcha.googlecode.com/files/HowToInstall04.png
 
-== Save plugin parameters ==
+== 4. Save plugin parameters ==
 
 http://joomla15captcha.googlecode.com/files/HowToInstall05.png
 
@@ -63,7 +63,7 @@ http://joomla15captcha.googlecode.com/files/HowToInstall11.png
 http://joomla15captcha.googlecode.com/files/HowToInstall12.png
 
 
-== After Installation ==
+== 5. After Installation ==
 
 http://joomla15captcha.googlecode.com/files/HowToAfterInst01.png
 
