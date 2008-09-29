@@ -12,7 +12,7 @@
 
 Attention! Unpak patches (*only 1 n 2 releases*) for Temlpate *in folder "html" for used templates*  
 
-3. Install plugin (`Install-JoomlaCaptha300.zip`).
+3. Install the plugin (`Install-JoomlaCaptha300.zip`).
 
 4. Save plugin parameters.
 
@@ -21,6 +21,12 @@ Adm.panel - > Extentions -> Plugin Manager -> System - Captcha -> Save btn
 }}}
 
 5. Enjoy.
+
+== Unpak patches ==
+
+== Install the plugin ==
+
+== Save plugin parameters ==
 
 = Upgrade = 
 
