@@ -3,6 +3,7 @@
 
 ||*The Captcha not work without Jomla Captcha Patch!!!*||*Always make a backup before you install any program!!!*||
 ||Каптча не работает без установленных патчей Jomla Captcha!!!||Всегда делайте резервную копию перед установкой любой программы!!!||
+
 = Installation =
 
 1. Unpak patches for Joomla site:
