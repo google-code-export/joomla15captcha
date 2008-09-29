@@ -23,6 +23,8 @@ Adm.panel - > Extentions -> Plugin Manager -> System - Captcha -> Save btn
 
 5. Enjoy.
 
+6. Joomla Captcha for admin login.
+
 == 1. Unpak patches ==
 
 http://joomla15captcha.googlecode.com/files/HowToPack01.png
@@ -73,6 +75,9 @@ http://joomla15captcha.googlecode.com/files/HowToAfterInst02.png
 http://joomla15captcha.googlecode.com/files/HowToAfterInst03.png
 
 http://joomla15captcha.googlecode.com/files/HowToAfterInst04.png
+
+
+== 6. Joomla Captcha for admin login ==
 
 http://joomla15captcha.googlecode.com/files/HowToAfterInst05.png
 
