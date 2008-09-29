@@ -44,6 +44,8 @@ http://joomla15captcha.googlecode.com/files/HowToInstall03.png
 
 http://joomla15captcha.googlecode.com/files/HowToInstall04.png
 
+== Save plugin parameters ==
+
 http://joomla15captcha.googlecode.com/files/HowToInstall05.png
 
 http://joomla15captcha.googlecode.com/files/HowToInstall06.png
@@ -61,7 +63,7 @@ http://joomla15captcha.googlecode.com/files/HowToInstall11.png
 http://joomla15captcha.googlecode.com/files/HowToInstall12.png
 
 
-== Save plugin parameters ==
+== After Installation ==
 
 http://joomla15captcha.googlecode.com/files/HowToAfterInst01.png
 
