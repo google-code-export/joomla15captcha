@@ -24,9 +24,57 @@ Adm.panel - > Extentions -> Plugin Manager -> System - Captcha -> Save btn
 
 == Unpak patches ==
 
+http://joomla15captcha.googlecode.com/files/HowToPack01.png
+
+http://joomla15captcha.googlecode.com/files/HowToPack02.png
+
+http://joomla15captcha.googlecode.com/files/HowToPack03.png
+
+http://joomla15captcha.googlecode.com/files/HowToPack04.png
+
+http://joomla15captcha.googlecode.com/files/HowToPack05.png
+
 == Install the plugin ==
 
+http://joomla15captcha.googlecode.com/files/HowToInstall01.png
+
+http://joomla15captcha.googlecode.com/files/HowToInstall02.png
+
+http://joomla15captcha.googlecode.com/files/HowToInstall03.png
+
+http://joomla15captcha.googlecode.com/files/HowToInstall04.png
+
+http://joomla15captcha.googlecode.com/files/HowToInstall05.png
+
+http://joomla15captcha.googlecode.com/files/HowToInstall06.png
+
+http://joomla15captcha.googlecode.com/files/HowToInstall07.png
+
+http://joomla15captcha.googlecode.com/files/HowToInstall08.png
+
+http://joomla15captcha.googlecode.com/files/HowToInstall09.png
+
+http://joomla15captcha.googlecode.com/files/HowToInstall10.png
+
+http://joomla15captcha.googlecode.com/files/HowToInstall11.png
+
+http://joomla15captcha.googlecode.com/files/HowToInstall12.png
+
+
 == Save plugin parameters ==
+
+http://joomla15captcha.googlecode.com/files/HowToAfterInst01.png
+
+http://joomla15captcha.googlecode.com/files/HowToAfterInst02.png
+
+http://joomla15captcha.googlecode.com/files/HowToAfterInst03.png
+
+http://joomla15captcha.googlecode.com/files/HowToAfterInst04.png
+
+http://joomla15captcha.googlecode.com/files/HowToAfterInst05.png
+
+http://joomla15captcha.googlecode.com/files/HowToAfterInst06.png
+
 
 = Upgrade = 
 
