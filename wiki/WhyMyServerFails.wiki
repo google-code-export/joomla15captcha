@@ -1,6 +1,6 @@
 #summary Why does my server fails because of the bots?
  
-Proactive treatment in all modules available from 4 th Edition.
+Note: Proactive treatment in all modules available from 4 th Edition.
 
 =Why does my server fails because of the bots?= 
 
