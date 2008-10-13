@@ -1,6 +1,10 @@
 #summary Send your xx_XX.plg_system_captcha.ini to Project
+#labels Featured
 
-=The xx_XX.plg_system_captcha.ini file is required.=
+=The lang file is required.=
 
-See Download tab for needed lang... 
+See Download tab for needed lang...
+
+*Joomla Captcha 4.0.0 required!!!!!!!!!!!!!!!!!!!!!!!!!*
+ 
 See en-GB.plg_system_captcha.ini (The source for translations on Download tab)  
