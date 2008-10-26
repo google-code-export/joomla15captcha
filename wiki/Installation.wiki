@@ -6,24 +6,20 @@
 
 = Installation =
 
-1. Unpak patches for Joomla site:
+1. Unpak patches your Joomla site.
 
-!!! Unpack Joomla Captcha *3.0.0* Patch for Joomla 1.5
-(`Patch-JoomlaCaptha300-for-Joomla157.zip`) *in root catalog* of Joomla site.
+ 
 
-Attention! Unpak patches (*only 1 n 2 releases*) for Temlpate *in folder "html" for used templates*  
+2. Install the plugin.
 
-3. Install the plugin (`Install-JoomlaCaptha300.zip`).
-
-4. Save plugin parameters.
+3. Save plugin parameters.
 
 {{{
 Adm.panel - > Extentions -> Plugin Manager -> System - Captcha -> Save btn
 }}}
 
-5. Enjoy.
+4. Enjoy.
 
-6. Joomla Captcha for admin login.
 
 == 1. Unpak patches ==
 
