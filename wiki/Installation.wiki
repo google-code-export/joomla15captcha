@@ -14,7 +14,7 @@
 
 *_JС43 Installation JCaptha 4.3.0*
 
-(If upgrade from previous versions just unpack *_JС43 UpgradePatch from Joomla Captha 4.0 to Joomla Captha 4.3.0* in root folder of your Joomla site.)
+(If upgrade from previous versions just unpack *_JС43 Upgrade Patch from Joomla Captha 4.0 to Joomla Captha 4.3.0* in root folder of your Joomla site.)
 
 3. Save plugin parameters.
 
