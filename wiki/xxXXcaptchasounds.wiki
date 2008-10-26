@@ -1,5 +1,5 @@
 #summary Send your xx_XX.captchasounds.zip to Project
-#labels Phase-QA,Phase-Support,Featured
+#labels Phase-QA,Phase-Support
 
 = The xx_XX.captchasounds.zip file is required.=
 
