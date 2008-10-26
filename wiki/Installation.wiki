@@ -1,8 +1,8 @@
 #summary 1 Installation.
 #labels Phase-Deploy,Featured
 
-|| *The Captcha not work without Jomla Captcha Patch!!!* || *Always make a backup before you install any program!!!* ||
-||Каптча не работает без установленных патчей Jomla Captcha!!!||Всегда делайте резервную копию перед установкой любой программы!!!||
+|| *The Captcha not work without Patch Joomla1.5.7 for JCapthca!!!* || *Always make a backup before you install any program!!!* ||
+||Каптча не работает без установленных патчей Joomla1.5.7 for JCapthca!!!||Всегда делайте резервную копию перед установкой любой программы!!!||
 
 = Installation =
 
