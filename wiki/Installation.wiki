@@ -6,17 +6,21 @@
 
 = Installation =
 
-1. Unpak patches your Joomla site.
+1. Unpak patches in root folder of your Joomla site.
 
 *_JС43 Patch Joomla1.5.7 for JCapthca 4.3.0*
 
 2. Install the plugin.
 
+*_JС43 Installation JCaptha 4.3.0*
+
 3. Save plugin parameters.
 
+*
 {{{
 Adm.panel - > Extentions -> Plugin Manager -> System - Captcha -> Save btn
 }}}
+*
 
 4. Enjoy.
 
