@@ -8,7 +8,7 @@
 
 1. Unpak patches your Joomla site.
 
- 
+*_JС43 Patch Joomla1.5.7 for JCapthca 4.3.0*
 
 2. Install the plugin.
 
