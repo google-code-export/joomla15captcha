@@ -18,6 +18,8 @@
 
 *3.* Save plugin parameters.
 
+[http://groups.google.com/group/joomlacaptcha/web/joomla-captcha-parameters See how to setup parameters there...]
+
 *
 {{{
 Adm.panel - > Extentions -> Plugin Manager -> System - Captcha -> Save btn
