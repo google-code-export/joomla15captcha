@@ -4,7 +4,7 @@
 
 ==2008-11-27==
 
-*JС43_Patch_Joomla1.5.8_for_JCapthca430_2008-11-27.zip*
+*JС43_Patch Joomla 1.5.8 for JCapthca430 2008-11-27.zip*
 - file patch to user.login for site offline mode
 
-see *JС43_Patch_offline_Joomla1.5.8_for_JCapthca430_2008-11-27.zip* on http://groups.google.com/group/joomlacaptcha/files
+see *JС43 Patch offline Joomla 1.5.8 for JCapthca430 2008-11-27.zip* on http://groups.google.com/group/joomlacaptcha/files
