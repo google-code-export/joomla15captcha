@@ -1,0 +1,7 @@
+#summary System requirements for Joomla Captcha.
+
+=System requirements=
+
+ * Joomla! 1.5.8
+ * PHP 5 with GD 2 and FL
+ * Apache or IIS, Fire Fox or IE
