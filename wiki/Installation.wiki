@@ -1,14 +1,14 @@
 #summary 1 Installation.
 #labels Phase-Deploy,Featured
 
-|| *The Captcha not work without Patch Joomla 1.5.* for JCapthca!!!* || *Always make a backup before you install any program!!!* ||
-||Каптча не работает без установленных патчей Joomla 1.5.* for JCapthca!!!||Всегда делайте резервную копию перед установкой любой программы!!!||
+|| *The Captcha not work without Patch Joomla 1.5._ for JCapthca!!!* || *Always make a backup before you install any program!!!* ||
+||Каптча не работает без установленных патчей Joomla 1.5._ for JCapthca!!!||Всегда делайте резервную копию перед установкой любой программы!!!||
 
 = Installation =
 
 *1.* Unpak patches in root folder of your Joomla site.
 
-*_JС43 Patch Joomla1.5.* for JCapthca 4.3.0*
+*_JС43 Patch Joomla1.5._ for JCapthca 4.3.0*
 
 *2.* Install the plugin.
 
