@@ -1,4 +1,4 @@
-#summary System requirements for Joomla Captcha.
+#summary 01. System requirements for Joomla Captcha.
 
 =System requirements=
 
