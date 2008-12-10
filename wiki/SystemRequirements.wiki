@@ -3,5 +3,11 @@
 =System requirements=
 
  * Joomla! 1.5.8
- * PHP 5 with GD 2 and FL
+ * PHP 5 with
+  * GD Support  enabled
+   * GD Version  bundled (2.0.34 compatible)
+   * FreeType Support  enabled
+   * FreeType Linkage  with freetype
+   * FreeType Version  2.1.9
+   * JPG Support  enabled
  * Apache or IIS, Fire Fox or IE
