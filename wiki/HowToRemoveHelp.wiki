@@ -19,7 +19,7 @@ And captcha help stirng is:
 
 And captcha help stirng is nothing
 
-*Or set parameter "URL for help" to On and set parameter "Set parameter "Use help link" to Off" as needed*
+*Or set parameter "Set help link" to On and set parameter "URL for help link" as needed*
 
 And captcha help stirng is:
 "About captcha Project" (where Project is your link) 
