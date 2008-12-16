@@ -7,20 +7,19 @@ Default captcha help stirng is:
 
 
 *In administrator panel of Joomla! go:*
-
  
 Extentions -> Plugin Manager -> System - Captcha -> Parameters -> Plugin Parameters -> 
 
-*Set parameter "I have made the donation and I can adjust help link now" to On*
+*Set parameter "Hide help info" (Tip: I have made the donation and I can adjust help link now to On)*
 
 And captcha help stirng is:
 "About captcha Project" 
 
-*Set parameter "Use help link" to Off*
+*Set parameter "Set help link" to Off*
 
 And captcha help stirng is nothing
 
-*Or set parameter "Use help link" to On and set parameter "Set parameter "Use help link" to Off" as needed*
+*Or set parameter "URL for help" to On and set parameter "Set parameter "Use help link" to Off" as needed*
 
 And captcha help stirng is:
 "About captcha Project" (where Project is your link) 
