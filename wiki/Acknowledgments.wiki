@@ -5,5 +5,7 @@
   * *Julian Meisel* ____JC40 lngTXT (german) (JCaptcha40, Joomla15) de-DE.plg_system_captcha.zip ) (by Julian Meisel)
   * *Eric Mamin* jc3__ lngTXT (french) (JCaptcha30, Joomla15) fr-FR.plg_system_captcha.zip (edited by Eric Mamin)
   * *Stefano Zamboni* jc3__ lngTXT (italian) (JCaptcha30, Joomla15) it-IT.plg_system_captcha.zip (edited by Stefano Zamboni)
-  * *iNFERNO* de-DE.plg_system_captcha.ini   
- iNFERNO  
+
+http://groups.google.com/group/joomlacaptcha/files
+
+  * *iNFERNO* de-DE.plg_system_captcha.ini iNFERNO  
