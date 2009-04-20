@@ -2,6 +2,6 @@
 
 = Acknowledgments=
 
-  * Text in *bold* or _italic_
+  * Julian Meisel ____JC40 lngTXT (german) (JCaptcha40, Joomla15) de-DE.plg_system_captcha.zip ) (by Julian Meisel)
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
