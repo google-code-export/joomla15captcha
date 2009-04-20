@@ -2,6 +2,6 @@
 
 = Acknowledgments=
 
-  * Julian Meisel ____JC40 lngTXT (german) (JCaptcha40, Joomla15) de-DE.plg_system_captcha.zip ) (by Julian Meisel)
-  * Headings, paragraphs, and lists
+  * *Julian Meisel* ____JC40 lngTXT (german) (JCaptcha40, Joomla15) de-DE.plg_system_captcha.zip ) (by Julian Meisel)
+  * *Eric Mamin* jc3__ lngTXT (french) (JCaptcha30, Joomla15) fr-FR.plg_system_captcha.zip (edited by Eric Mamin)
   * Automatic links to other wiki pages
