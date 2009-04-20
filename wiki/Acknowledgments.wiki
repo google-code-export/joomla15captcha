@@ -1,7 +1,7 @@
 #summary Acknowledgments.
 
-= Acknowledgments=
+= Thanks for the help in the preparation of the previous releases: =
 
   * *Julian Meisel* ____JC40 lngTXT (german) (JCaptcha40, Joomla15) de-DE.plg_system_captcha.zip ) (by Julian Meisel)
   * *Eric Mamin* jc3__ lngTXT (french) (JCaptcha30, Joomla15) fr-FR.plg_system_captcha.zip (edited by Eric Mamin)
-  * Automatic links to other wiki pages
+  * *Stefano Zamboni* jc3__ lngTXT (italian) (JCaptcha30, Joomla15) it-IT.plg_system_captcha.zip (edited by Stefano Zamboni)
