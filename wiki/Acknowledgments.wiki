@@ -13,4 +13,4 @@ http://groups.google.com/group/joomlacaptcha/files
   * *Airton* pt-BR.plg_system_captcha.ini
   * *ribafs* pt-BR.plg_system_captcha.ini (2)
 
-Also thanks to everyone who is not mentioned here, but whose messages are quickly helped to eliminate mistakes and make improvements.
+*Also thanks to everyone who is not mentioned here, but whose messages are quickly helped to eliminate mistakes and make improvements.*
