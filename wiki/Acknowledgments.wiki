@@ -8,4 +8,7 @@
 
 http://groups.google.com/group/joomlacaptcha/files
 
-  * *iNFERNO* de-DE.plg_system_captcha.ini iNFERNO  
+  * *iNFERNO* de-DE.plg_system_captcha.ini iNFERNO
+  * *Myatu* Dutch-language-sounds.zip nl-NL.plg_system_captcha.ini
+  * *Airton* pt-BR.plg_system_captcha.ini
+  * *ribafs* pt-BR.plg_system_captcha.ini (2)
