@@ -9,4 +9,4 @@
 U398444781219 
 Z558530143913
 
-[wmk:payto?Purse=Z558530143913&Amount=7&Desc=Оплата%20заказа&BringToFront=Y Поддержать проект Joomla Captcha с кошелька WMZ</a>
+[http://www.webmoney.ru/payto?Purse=Z558530143913&Amount=7&Desc=Оплата%20заказа&BringToFront=Y Поддержать проект Joomla Captcha с кошелька WMZ</a>
