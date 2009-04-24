@@ -6,7 +6,5 @@
 
 [http://www.webmoney.ru/rus/withdrawfunds/transfer/index.shtml]
 
-U398444781219 
+U398444781219<br/> 
 Z558530143913
-
-[http://www.webmoney.ru/payto?Purse=Z558530143913&Amount=7&Desc=Оплата%20заказа&BringToFront=Y Поддержать проект Joomla Captcha с кошелька WMZ</a>
