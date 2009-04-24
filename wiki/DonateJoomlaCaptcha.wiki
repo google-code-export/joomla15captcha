@@ -1,0 +1,5 @@
+#summary DonateJoomlaCaptcha.
+
+= Donate Joomla Captcha=
+
+Add your content here.
