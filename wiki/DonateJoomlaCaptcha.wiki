@@ -7,4 +7,7 @@
 [http://www.webmoney.ru/rus/withdrawfunds/transfer/index.shtml]
 
 U398444781219 
-Z558530143913 
+Z558530143913
+
+<a href="wmk:payto?Purse=Z558530143913&Amount=7&Desc=Оплата%20заказа&BringToFront=Y">
+Оплата заказа на сумму 7 WMZ</a>
