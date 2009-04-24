@@ -9,5 +9,4 @@
 U398444781219 
 Z558530143913
 
-<a href="wmk:payto?Purse=Z558530143913&Amount=7&Desc=Оплата%20заказа&BringToFront=Y">
-Оплата заказа на сумму 7 WMZ</a>
+[wmk:payto?Purse=Z558530143913&Amount=7&Desc=Оплата%20заказа&BringToFront=Y Поддержать проект Joomla Captcha с кошелька WMZ</a>
