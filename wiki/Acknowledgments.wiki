@@ -1,6 +1,6 @@
 #summary Acknowledgments.
 
-= Thanks for the help in the preparation of the previous releases: =
+= Thanks for the help: =
 
  * *Myatu* Improved algorithms and decision errors
 
