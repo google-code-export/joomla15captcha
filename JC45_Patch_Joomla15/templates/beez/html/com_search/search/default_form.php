@@ -36,7 +36,7 @@ if ($results[0])
 	$dispatcher->trigger( 'onCaptchaView', array( 'user.search', 0, '<p>', '</p>' ) ); ?>
 	
 <p>
-	<button name="Search" onClick="this.form.submit()" class="button"><?php echo JText::_( 'Search' );?></button>
+	<button name="Search" onclick="this.form.submit()" class="button"><?php echo JText::_( 'Search' );?></button>
 </p>
 
 
