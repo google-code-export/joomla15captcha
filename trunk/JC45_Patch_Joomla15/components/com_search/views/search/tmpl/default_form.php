@@ -2,11 +2,15 @@
 
 <form id="searchForm" action="<?php echo JRoute::_( 'index.php?option=com_search' );?>" method="post" name="searchForm">
 	<table class="contentpaneopen<?php echo $this->params->get( 'pageclass_sfx' ); ?>">
-		<?php // Captcha Extention patch rev. 4.5.0 Stable
-		$dispatcher = &JDispatcher::getInstance();
-		$results = $dispatcher->trigger( 'onCaptchaRequired', array( 'user.search' ) );
-		if ($results[0])
-			$dispatcher->trigger( 'onCaptchaView', array( 'user.search', 0, '', '' ) ); ?>
+		<tr>
+			<td colspan="3">
+				<?php // Captcha Extention patch rev. 4.5.0 Stable
+				$dispatcher = &JDispatcher::getInstance();
+				$results = $dispatcher->trigger( 'onCaptchaRequired', array( 'user.search' ) );
+				if ($results[0])
+					$dispatcher->trigger( 'onCaptchaView', array( 'user.search', 0, '', '' ) ); ?>
+			</td>
+		</tr>
 		<tr>
 			<td nowrap="nowrap">
 				<label for="search_searchword">
