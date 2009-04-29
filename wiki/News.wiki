@@ -1,7 +1,11 @@
 #summary News
 
-= News=
+= News . Новости =
+
+
 
 *2009-04-16*
 
-Joomla Captcha 4.5.0 release Valid XHTML ( http://www.kupala.net/index.php?option=com_user&view=login&Itemid=2 ). Right bottom link on the page. 
+|| Joomla Captcha 4.5.0 release Valid XHTML ( http://www.kupala.net/index.php?option=com_user&view=login&Itemid=2 ). Right bottom link on the page. || Joomla Captcha версия 4.5.0 Чистый XHTML ( http://www.kupala.net/index.php?option=com_user&view=login&Itemid=2 ). Ссылка справа внизу страницы. ||
+
+||||||
