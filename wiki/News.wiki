@@ -6,7 +6,7 @@
 
 ||In a patch for Joomla search component to comply with the syntax of XHTML||В патче для Joomla в компоненте поиска исправлено соблюдениe синтаксиса XHTML ||
 
-http://code.google.com/p/joomla15captcha/source/detail?r=192
+http://code.google.com/p/joomla15captcha/source/detail?r=192<br>
 http://code.google.com/p/joomla15captcha/source/detail?r=193
 
 *2009-04-16*
