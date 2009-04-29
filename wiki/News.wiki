@@ -2,7 +2,9 @@
 
 = News . Новости =
 
+*2009-04-29*
 
+||In a patch for Joomla search component rectified to comply with the syntax of XHTML||В патче для Joomla в компоненте поиска исправлено для соблюдения синтаксиса XHTML ||
 
 *2009-04-16*
 
