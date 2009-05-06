@@ -1,6 +1,6 @@
 #summary Some Patches
 
-= Some Patches =
+= Some Patches for All for Joomla Captcha =
 
 == VirtueMart ==
 
