@@ -5,10 +5,10 @@
 == VirtueMart ==
 
 [http://code.google.com/p/joomla15captcha/downloads/detail?name=PATCH_for_VirtueMart_1.1.3_for_JoomlaCaptcha4_2009-05-07.zip&can=2&q= Download patch for VirtueMart 1.1.3 for Joomla Captcha 4]. (updated 2009-05-07)
- * форма входа в модуле
- * форма форма входа в корзине покупателя
- * форма регистрации в корзине покупателя
- * форма регистрации магазина 
+ * форма входа в модуле login form
+ * форма форма входа в корзине покупателя basket login form
+ * форма регистрации в корзине покупателя basket register form
+ * форма регистрации магазина shop register form
 
 Download and unpack at root of your site.
 
