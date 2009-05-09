@@ -9,8 +9,8 @@
  * basket login form (форма форма входа в корзине покупателя)
  * basket register form (форма регистрации в корзине покупателя)
  * shop register form (форма регистрации магазина)
- * shop ask form (форма регистрации магазина)
- ** use 'shop.ask' for captcha plugin parameter
+ * shop ask form (форма регистрации магазина) NEW
+ * * use 'shop.ask' for captcha plugin parameter
 
 Download and unpack at root of your site.
 
