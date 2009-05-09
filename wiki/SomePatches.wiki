@@ -4,7 +4,7 @@
 
 == VirtueMart ==
 
-[http://code.google.com/p/joomla15captcha/downloads/detail?name=PATCH_for_VirtueMart_1.1.3_for_JoomlaCaptcha4_2009-05-09.zip&can=2&q= Download patch for VirtueMart 1.1.3 for Joomla Captcha 4]. (updated 2009-05-09, Comment by affonin Fixed)
+[http://code.google.com/p/joomla15captcha/downloads/detail?name=PATCH_for_VirtueMart_1.1.3_for_JoomlaCaptcha4_2009-05-09.zip&can=2&q= Download patch for VirtueMart 1.1.3 for Joomla Captcha 4]. (updated 2009-05-09, Comment by affonin Fixed, ask form added)
  * login form (форма входа модуля магазина)
  * basket login form (форма форма входа в корзине покупателя)
  * basket register form (форма регистрации в корзине покупателя)
