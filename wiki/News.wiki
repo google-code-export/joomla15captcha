@@ -2,9 +2,10 @@
 
 = News . Новости =
 
-*2009-05-9*
+*2009-05-09*
 
-Новый релиз патча капчи для VirtueMart 
+Новый релиз патча капчи для VirtueMart в разделе SomePatces
+New release of patch for VirtueMart See section SomePatces 
 
 *2009-05-07*
 
