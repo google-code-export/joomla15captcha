@@ -10,7 +10,7 @@
  * basket register form (форма регистрации в корзине покупателя)
  * shop register form (форма регистрации магазина)
  * shop ask form (форма регистрации магазина) NEW
-  * use [http://groups.google.com/group/joomlacaptcha/web/joomla-captcha-parameters 'shop.ask' for captcha plugin 'Enabled plugin' parameter]
+  * use [http://groups.google.com/group/joomlacaptcha/web/joomla-captcha-parameters 'shop.ask' for captcha plugin 'Enabled captchas' parameter]
 
 Download and unpack at root of your site.
 
