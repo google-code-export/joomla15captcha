@@ -2,6 +2,12 @@
 
 = News . Новости =
 
+Регистрируйтесь в группе чтобы получать новости по емайл!
+
+Register in the group to receive news on your E-Mail!
+
+== Track ==
+
 *2009-05-09*
 
 Новый релиз патча капчи для VirtueMart в разделе SomePatches
