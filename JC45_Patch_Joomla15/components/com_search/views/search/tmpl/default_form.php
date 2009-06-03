@@ -1,16 +1,12 @@
 <?php defined('_JEXEC') or die('Restricted access'); ?>
 
 <form id="searchForm" action="<?php echo JRoute::_( 'index.php?option=com_search' );?>" method="post" name="searchForm">
-	<table class="contentpaneopen<?php echo $this->params->get( 'pageclass_sfx' ); ?>">
-		<tr>
-			<td colspan="3">
-				<?php // Captcha Extention patch rev. 4.5.0 Stable
-				$dispatcher = &JDispatcher::getInstance();
-				$results = $dispatcher->trigger( 'onCaptchaRequired', array( 'user.search' ) );
-				if ($results[0])
-					$dispatcher->trigger( 'onCaptchaView', array( 'user.search', 0, '', '' ) ); ?>
-			</td>
-		</tr>
+	<table class="contentpaneopen<?php echo $this->escape($this->params->get('pageclass_sfx')); ?>">
+		<?php // Captcha Extention patch rev. 4.5.0 Stable
+		$dispatcher = &JDispatcher::getInstance();
+		$results = $dispatcher->trigger( 'onCaptchaRequired', array( 'user.search' ) );
+		if ($results[0])
+			$dispatcher->trigger( 'onCaptchaView', array( 'user.search', 0, '', '' ) ); ?>
 		<tr>
 			<td nowrap="nowrap">
 				<label for="search_searchword">
@@ -51,7 +47,7 @@
 	<?php endif; ?>
 
 
-	<table class="searchintro<?php echo $this->params->get( 'pageclass_sfx' ); ?>">
+	<table class="searchintro<?php echo $this->escape($this->params->get('pageclass_sfx')); ?>">
 	<tr>
 		<td colspan="3" >
 			<br />
