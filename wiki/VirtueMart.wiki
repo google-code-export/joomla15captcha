@@ -5,3 +5,20 @@ The patch for [SomePatches Joomla Captcha there]
 
 
 Virtue Mart [http://extensions.joomla.org/extensions/e%252dcommerce/shopping-cart/129/details on Jomla Extentions]
+
+== Installation ==
+
+
+=== First install Joomla Captcha Plugin with latest Patch ===
+
+See Project Home Page
+
+=== 1. Extract the archive into the root of the Joomla site ===
+
+Sample: http://docs.joomla.org/Upgrading_1.5_from_an_existing_1.5x_version
+
+=== 2. Set and save plugin parameters ===
+
+Sample: http://groups.google.com/group/joomlacaptcha/web/joomla-captcha-parameters
+
+Sample parameters string: "user.login, user.remind, user.reset, user.register, user.contact, user.poll, user.search, administrator.login, shop.ask"
