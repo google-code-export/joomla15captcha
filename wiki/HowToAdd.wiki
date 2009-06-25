@@ -3,4 +3,104 @@
 
 = How do I add a plug-in the form of third-party development for Joomla!? =
 
-This unfinished article.
+{{{
+
+/**
+ * Example usage: Captcha PATCH FOR USER FORM.
+ *
+ * Used before the Submit button.
+ *
+ * Where:
+ *
+ * 'user.contact' is the marker of form.
+ * 'onCaptchaRequired' trigger allows enable or disable the Captcha,
+ *   depending on the category of user. The default will not show up
+ *   for registered users.
+ * 'user.contact' marker allows enable or disable the Captcha,
+ *  according to the list of markers that are listed in the parameters
+ *  of a plug-in.
+ * 
+ * Attention! Carefully specify the third and fourth options
+ * for the handling of events. They include html code.
+ * If he is wrong, it hurts your page. (... 'openhtml' => '', 'closehtml' => '<br />' ...)
+ *
+ * ...
+
+ *There are two options for passing parameters in an event: standard and named.
+
+ * STANDART: 
+
+                        <br />
+                        <?php // capthca patch >>>>>>> ?>
+                        
+                        <?php // Captcha Extention patch rev. 4.5.0 Stable
+                        $dispatcher = &JDispatcher::getInstance();
+                        $results = $dispatcher->trigger( 'onCaptchaRequired', array( 'user.contact' ) );
+                        if ($results[0])
+                                $dispatcher->trigger( 'onCaptchaView', array( 'user.contact', 0, '', '<br />' ) ); ?>
+                                
+                        <?php // <<<<<<< capthca patch ?>
+                        <button class="button validate" type="submit"><?php echo JText::_('Send'); ?></button>
+
+ * NAMED: 
+
+                        <br />
+                        <?php // capthca patch >>>>>>> ?>
+                        
+                        <?php // Captcha Extention Patch rev. 4.5.0 Stable
+                        $dispatcher = &JDispatcher::getInstance();
+                        $results = $dispatcher->trigger( 'onCaptchaRequired', array( 'user.contact' ) );
+                        if ($results[0]) {
+                                $captchaparambyname = array( 'captchagroup' => 'user.contact', 'closehtml' => '<br />', 'idsuf' => '' );
+                                $dispatcher->trigger( 'onCaptchaView', array( $captchaparambyname ) ); 
+                        } ?>
+                                
+                        <?php // <<<<<<< capthca patch ?>
+                        <button class="button validate" type="submit"><?php echo JText::_('Send'); ?></button>
+
+
+ * Parameters for the events referred to the array. 
+ * Parameters in the array must be called.
+ * You can identify them in any order, or omit altogether.
+ * 
+ * Scenarios::
+ * ...trigger( 'onCaptchaView', array( 'captchagroup' => 'user.contact', 'hide' => 0, 'openhtml' => '', 'closehtml' => '<br />', 'idsuf' => '' ) )...
+ * ...trigger( 'onCaptchaView', array( 'closehtml' => '<br />', 'idsuf' => 'yoologin' ) )...
+ * ...trigger( 'onCaptchaView' )...
+ * And so on.
+ *
+ * Attention!
+ * If 'captchagroup' => 'user.contact' is empty or ommited then the
+ * captcha is not displayed and not verified.
+ *
+ */
+
+/**
+ * Example usage: Captcha PATCH FOR THE CONTROLLER, which processes the data
+ * user form.
+ * 
+ * Attention! The code must be inserted sub first, to avoid unnecessary
+ * referrals to the database.
+ *
+ 
+                // Captcha Controller Patch rev. 4.5.0 Stable
+                $dispatcher     = &JDispatcher::getInstance();
+                $results = $dispatcher->trigger( 'onCaptchaRequired', array( 'user.contact' ) );
+                if ( $results[0] ) {
+                        $captchaparams = array( JRequest::getVar( 'captchacode', '', 'post' )
+                        , JRequest::getVar( 'captchasuffix', '', 'post' )
+                        , JRequest::getVar( 'captchasessionid', '', 'post' ));
+                        $results = $dispatcher->trigger( 'onCaptchaVerify', $captchaparams );
+                        if ( ! $results[0] ) {
+                                // *** start your code ***
+                                // JError::raiseWarning( 'CAPTHCA', JText::_( 'CAPTCHACODE_DO_NOT_MATCH' ) );
+                                // $this->display();
+                                // *** end your code ***
+                                return false;
+                        }
+                }
+ 
+ *
+ */
+
+}}}
