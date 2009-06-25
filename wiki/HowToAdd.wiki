@@ -93,8 +93,8 @@
                         $results = $dispatcher->trigger( 'onCaptchaVerify', $captchaparams );
                         if ( ! $results[0] ) {
                                 // *** start your code ***
-                                // JError::raiseWarning( 'CAPTHCA', JText::_( 'CAPTCHACODE_DO_NOT_MATCH' ) );
-                                // $this->display();
+                                JError::raiseWarning( 'CAPTHCA', JText::_( 'CAPTCHACODE_DO_NOT_MATCH' ) );
+                                $this->display();
                                 // *** end your code ***
                                 return false;
                         }
