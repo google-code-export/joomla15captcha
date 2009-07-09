@@ -1,4 +1,4 @@
-#summary Some Patches
+#summary Some Patches (VirtueMart etc.)
 
 = Some Patches for All for Joomla Captcha =
 
