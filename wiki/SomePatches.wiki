@@ -18,4 +18,4 @@
 
 Download and unpack at root of your site.
 
-Скачайте и распакуйте в корень вашего сайта [http://code.google.com/p/joomla15captcha/downloads/detail?name=PATCH_for_VirtueMart_1.1.3_for_JoomlaCaptcha4_2009-05-09.zip&can=2&q= патч для VirtueMart].
+Скачайте и распакуйте в корень вашего сайта.
