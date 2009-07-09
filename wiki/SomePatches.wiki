@@ -19,3 +19,5 @@
 Download and unpack at root of your site.
 
 Скачайте и распакуйте в корень вашего сайта.
+
+[http://code.google.com/p/joomla15captcha/wiki/VirtueMart How To Install / Как установить]
