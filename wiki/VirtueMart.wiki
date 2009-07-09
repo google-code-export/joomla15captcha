@@ -1,4 +1,4 @@
-#summary VirtueMart
+#summary VirtueMart (Installation)
 
 
 The patch for [SomePatches Joomla Captcha there] 
