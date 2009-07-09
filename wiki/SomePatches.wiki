@@ -4,8 +4,9 @@
 
 == VirtueMart ==
 
-NEW 2009-07-10 (issue  correct)
-[http://code.google.com/p/joomla15captcha/downloads/detail?name=PATCH_for_VirtueMart_1.1.3_for_JoomlaCaptcha4_2009-07-10.zip&can=2&q= Download patch for VirtueMart 1.1.3 for Joomla Captcha 4]. (updated 2009-07-10)
+=== NEW 2009-07-10 (issue  correct) ===
+
+*[http://code.google.com/p/joomla15captcha/downloads/detail?name=PATCH_for_VirtueMart_1.1.3_for_JoomlaCaptcha4_2009-07-10.zip&can=2&q= Download patch for VirtueMart 1.1.3 for Joomla Captcha 4]. (updated 2009-07-10)*
 
 
  * login form (форма входа модуля магазина)
