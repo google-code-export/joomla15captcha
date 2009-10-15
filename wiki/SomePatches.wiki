@@ -6,6 +6,8 @@
 
 === NEW 2009-07-10 ([http://code.google.com/p/joomla15captcha/issues/detail?id=39 issue 39] correct) ===
 
+*[http://code.google.com/p/joomla15captcha/downloads/detail?name=PATCH_for_VirtueMart_1.1.3_for_JoomlaCaptcha4_2009-10-16.zip&can=2&q= Download patch for VirtueMart 1.1.3 for Joomla Captcha 4]. (updated 2009-10-16)*
+
 *[http://code.google.com/p/joomla15captcha/downloads/detail?name=PATCH_for_VirtueMart_1.1.3_for_JoomlaCaptcha4_2009-07-10.zip&can=2&q= Download patch for VirtueMart 1.1.3 for Joomla Captcha 4]. (updated 2009-07-10)*
 
 
