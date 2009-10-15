@@ -10,6 +10,14 @@
 
 *2009-05-09*
 
+Rev.4.5.1.091016
+
+Новый релиз патча капчи для VirtueMart в разделе SomePatches
+
+New release of patch for VirtueMart See section SomePatches 
+
+*2009-05-09*
+
 Новый релиз патча капчи для VirtueMart в разделе SomePatches
 
 New release of patch for VirtueMart See section SomePatches 
