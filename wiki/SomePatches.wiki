@@ -4,17 +4,9 @@
 
 == VirtueMart ==
 
-=== 2009-10-24 ===
-
 *[http://code.google.com/p/joomla15captcha/downloads/detail?name=PATCH_for_VirtueMart_1.1.4_for_JoomlaCaptcha4_2009-10-24.rar&can=2&q= Download patch for VirtueMart 1.1.4 for Joomla Captcha 4]. (updated 2009-10-24) (registration fix)*
 
-=== 2009-10-16 ===
-
 *[http://code.google.com/p/joomla15captcha/downloads/detail?name=PATCH_for_VirtueMart_1.1.3_for_JoomlaCaptcha4_2009-10-16.zip&can=2&q= Download patch for VirtueMart 1.1.3 for Joomla Captcha 4]. (updated 2009-10-16)*
-
-=== 2009-07-10 ([http://code.google.com/p/joomla15captcha/issues/detail?id=39 issue 39] correct) ===
-
-*[http://code.google.com/p/joomla15captcha/downloads/detail?name=PATCH_for_VirtueMart_1.1.3_for_JoomlaCaptcha4_2009-07-10.zip&can=2&q= Download patch for VirtueMart 1.1.3 for Joomla Captcha 4]. (updated 2009-07-10)*
 
 
  * login form (форма входа модуля магазина)
@@ -22,10 +14,14 @@
  * basket register form (форма регистрации в корзине покупателя)
  * shop register form (форма регистрации магазина)
  * shop ask form (форма запроса по товару) NEW
-  * use [http://groups.google.com/group/joomlacaptcha/web/joomla-captcha-parameters 'shop.ask' for captcha plugin 'Enabled captchas' parameter] (для работы этой формы в параметре плагина 'Включеннные каптчи' следует добавить тег 'shop.ask')
+ * use [http://groups.google.com/group/joomlacaptcha/web/joomla-captcha-parameters 'shop.ask' for captcha plugin 'Enabled captchas' parameter] (для работы этой формы в параметре плагина 'Включеннные каптчи' следует добавить тег 'shop.ask')
 
 Download and unpack at root of your site.
 
 Скачайте и распакуйте в корень вашего сайта.
 
 [http://code.google.com/p/joomla15captcha/wiki/VirtueMart How To Install / Как установить]
+
+== Установка капчи (Captcha) на регистрацию в JomSocial ==
+
+[http://blog.bcmk.ru/myblog/ustanovka-kapchi-captcha-na-registratsiiu-v-jomsocial.html Источник / source]
