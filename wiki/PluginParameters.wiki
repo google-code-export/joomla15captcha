@@ -1,0 +1,5 @@
+#summary Plugin parameters.
+
+= Plugin parameters =
+
+  * 
