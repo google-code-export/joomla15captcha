@@ -2,11 +2,18 @@
 
 = Plugin parameters =
 
+  * user.register
   * user.login
-  * user.mailto
+  * user.reset
+  * user.remind
   * user.contact
   * user.search
   * user.poll
+  * user.mailto
+  * administrator.login
+
+= Viruemart parameters =
+
   * user.register
-  * user.administrator.login
-  * user.login
+
+
