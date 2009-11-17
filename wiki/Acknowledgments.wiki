@@ -10,6 +10,7 @@
 
 http://groups.google.com/group/joomlacaptcha/files
 
+  * *wicksj* JС4 Patch Joomla 1.5 com_mailto
   * *iNFERNO* de-DE.plg_system_captcha.ini iNFERNO
   * *Myatu* Dutch-language-sounds.zip nl-NL.plg_system_captcha.ini
   * *Airton* pt-BR.plg_system_captcha.ini
