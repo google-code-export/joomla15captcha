@@ -1,19 +1,19 @@
 #summary Plugin parameters.
 
+*[http://groups.google.com/group/joomlacaptcha/web/joomla-captcha-parameters A sample there...]*
+
 = Plugin parameters =
 
-  * user.register
-  * user.login
-  * user.reset
-  * user.remind
-  * user.contact
-  * user.search
-  * user.poll
-  * user.mailto
-  * administrator.login
+  * *user.register*
+  * *user.login*
+  * *user.reset*
+  * *user.remind*
+  * *user.contact*
+  * *user.search*
+  * *user.poll*
+  * *user.mailto*
+  * *administrator.login*
 
 = Viruemart parameters =
 
-  * user.register
-
-
+  * *user.register*
