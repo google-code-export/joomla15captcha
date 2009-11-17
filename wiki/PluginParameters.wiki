@@ -14,7 +14,7 @@
   * *user.mailto*
   * *administrator.login*
 
-= Viruemart parameters =
+= Virtuemart parameters =
 
   * *user.register*
   * *user.login*
