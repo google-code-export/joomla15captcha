@@ -2,4 +2,11 @@
 
 = Plugin parameters =
 
-  * 
+  * user.login
+  * user.mailto
+  * user.contact
+  * user.search
+  * user.poll
+  * user.register
+  * user.administrator.login
+  * user.login
