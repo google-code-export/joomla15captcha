@@ -17,3 +17,5 @@
 = Viruemart parameters =
 
   * *user.register*
+  * *user.login*
+  * *shop.ask*
