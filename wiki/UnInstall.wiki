@@ -4,7 +4,7 @@
 
 == Uninstall plugin ==
 
-[]
+Use Joomla installer
 
 == Remove patch ==
 
