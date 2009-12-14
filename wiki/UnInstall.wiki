@@ -8,4 +8,4 @@ Use Joomla installer
 
 == Remove patch ==
 
-Just unpack []
+[http://code.google.com/p/joomla15captcha/downloads/detail?name=JC45_UnInstall_Patch_Joomla1.5.15_for_JCapthca_rev2.zip Download and apply UnInstall Patch Joomla1.5.15 for JCapthca now]<br>(Extract the archive into the root of the Joomla site)
