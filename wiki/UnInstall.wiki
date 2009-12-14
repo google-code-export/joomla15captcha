@@ -1,0 +1,11 @@
+#summary UnInstall.
+
+= UnInstall=
+
+== Uninstall plugin ==
+
+[]
+
+== Remove patch ==
+
+Just unpack []
