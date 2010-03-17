@@ -4,10 +4,7 @@
 
 == VirtueMart ==
 
-*[http://code.google.com/p/joomla15captcha/downloads/detail?name=PATCH_for_VirtueMart_1.1.4_for_JoomlaCaptcha4_2009-10-24.rar&can=2&q= Download patch for VirtueMart 1.1.4 for Joomla Captcha 4]. (updated 2009-10-24) (registration fix)*
-
-*[http://code.google.com/p/joomla15captcha/downloads/detail?name=PATCH_for_VirtueMart_1.1.3_for_JoomlaCaptcha4_2009-10-16.zip&can=2&q= Download patch for VirtueMart 1.1.3 for Joomla Captcha 4]. (updated 2009-10-16)*
-
+*[http://code.google.com/p/joomla15captcha/downloads/list?can=1&q=VirtueMart All patches for VirtueMart 1.1.8 for Joomla Captcha 4]. Choose the latest (Выбери последний)
 
  * login form (форма входа модуля магазина)
  * basket login form (форма форма входа в корзине покупателя)
