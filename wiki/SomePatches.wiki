@@ -4,7 +4,7 @@
 
 == VirtueMart ==
 
-*[http://code.google.com/p/joomla15captcha/downloads/list?can=1&q=VirtueMart All patches for VirtueMart 1.1.8 for Joomla Captcha 4]. Choose the latest (Выбери последний)
+*[http://code.google.com/p/joomla15captcha/downloads/list?can=1&q=VirtueMart All patches for VirtueMart 1.1.* for Joomla Captcha 4]. Choose the latest (Выбери последний)
 
  * login form (форма входа модуля магазина)
  * basket login form (форма форма входа в корзине покупателя)
